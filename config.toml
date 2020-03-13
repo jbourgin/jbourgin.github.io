@@ -1,7 +1,7 @@
 baseURL = "https://jbourgin.github.io"
 languageCode = "en-us"
 title = "Jessica Bourgin"
-theme = "timer-hugo"
+theme = "timer"
 
 # Navbar Menus
 [[menu.nav]]
@@ -20,7 +20,7 @@ weight  = 4
 # Site Params
 [params]
 home = "Home"
-logo = "images/brain_logo_small.jpeg"
+logo = "images/boo_small.jpeg"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Airspace Hugo theme"
