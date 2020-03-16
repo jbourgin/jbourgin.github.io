@@ -1,0 +1,110 @@
+baseURL = "https://jbourgin.github.io"
+languageCode = "en-us"
+title = "Jessica Bourgin"
+theme = "hugo-academic"
+
+# Navbar Menus
+[[menu.nav]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "Projects"
+url     = "projects"
+weight  = 3
+[[menu.nav]]
+name    = "Publications"
+url     = "publications"
+weight  = 4
+
+# Site Params
+[params]
+home = "Home"
+#logo = "images/boo_small.jpeg"
+dateFormat = "6 January 2006"
+date_format = "Jan 2, 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+############################
+## Comments
+############################
+[params.comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+
+  # Configuration of Disqus.
+  [params.comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
+
+  # Configuration of Commento.
+  [params.comments.commento]
+    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
+    url = ""
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/brain.jpg"
+heading = "Hi, My name is Jessica and I am"
+description = ""
+# button
+# btn     = true
+# btnText = "Download More"
+# btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Doctor in Cognitive Science"
+[[params.banner.flipText]]
+title   = "Engineer in statistics and scientific computing"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT ME"
+content = "I am currently working as an engineer in statistics and scientific computing at the <a href = 'https://lpnc.univ-grenoble-alpes.fr/'>Laboratoire de Psychologie et NeuroCognition</a> and the <a href = 'https://www.lip.univ-smb.fr/'>Laboratoire Inter-universitaire de Psychologie</a> in Chambéry (France).<br><br>Having a PhD in Cognitive Science, my research focuses on studying emotional attention in normal aging and in Alzheimer's Disease, using eye-tracking and neuroimaging tools.<br><br>Please use the following link to find information about my thesis work: <a href = 'https://hal.archives-ouvertes.fr/tel-02485293/'>Thesis</a>"# Parler de boogui, dev. Rajout éduc et lien thèse cv
+image   = "images/profile_small.png"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = ""
+content = ""
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Projects"
+subtitle= ""
+
+# Portfolio Section On Homepage
+[params.publication]
+enable  = true
+title   = "Publications"
+subtitle= ""
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
