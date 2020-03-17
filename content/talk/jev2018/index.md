@@ -17,7 +17,7 @@ abstract: La Maladie d’Alzheimer (MA) est une pathologie neurodégénérative 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2018-03-05T14:30:00+01:00
-#date_end: 2018-03-05T15:00:00+01:00
+date_end: 2018-03-06T15:00:00+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).

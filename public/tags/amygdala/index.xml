@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amygdala | Jessica Bourgin</title>
+    <link>/tags/amygdala/</link>
+      <atom:link href="/tags/amygdala/index.xml" rel="self" type="application/rss+xml" />
+    <description>amygdala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 12:12:21 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_hua54fa426fe02a2c518075ee4d7414ee8_24791_300x300_fit_lanczos_2.png</url>
+      <title>amygdala</title>
+      <link>/tags/amygdala/</link>
+    </image>
+    
+    <item>
+      <title> Involvement of Amygdala Alterations in Emotional Processing in Alzheimer’s Disease : a Review</title>
+      <link>/publication/review2020/</link>
+      <pubDate>Mon, 16 Mar 2020 12:12:21 +0100</pubDate>
+      <guid>/publication/review2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

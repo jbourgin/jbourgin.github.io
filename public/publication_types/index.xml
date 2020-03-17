@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Jessica Bourgin</title>
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 14:35:24 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_hua54fa426fe02a2c518075ee4d7414ee8_24791_300x300_fit_lanczos_2.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+      <pubDate>Mon, 16 Mar 2020 14:35:24 +0100</pubDate>
+      <guid>/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+      <pubDate>Wed, 16 May 2018 11:48:27 +0100</pubDate>
+      <guid>/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

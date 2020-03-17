@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. | Jessica Bourgin</title>
+    <link>/authors/e./</link>
+      <atom:link href="/authors/e./index.xml" rel="self" type="application/rss+xml" />
+    <description>E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 14:17:57 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_hua54fa426fe02a2c518075ee4d7414ee8_24791_300x300_fit_lanczos_2.png</url>
+      <title>E.</title>
+      <link>/authors/e./</link>
+    </image>
+    
+    <item>
+      <title>Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease</title>
+      <link>/publication/adni2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>/publication/adni2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease</title>
+      <link>/publication/adni2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>/publication/adni2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
