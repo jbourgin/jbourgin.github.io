@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Design Engineer
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -25,10 +25,10 @@ organizations:
 interests:
 - Normal and pathological aging (Alzheimer's Disease)
 - Emotion processing
+- Visual attention
 - Eye-tracking
 - Diffusion and functional MRI
 - Visual perception
-- Visual attention
 
 education:
   courses:
@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently working as a design engineer in statistics and scientific computing at the <a href = 'https://www.univ-smb.fr'>University Savoie Mont Blanc</a> in Chambéry (France).
+I am currently working as a research engineer in statistics and scientific computing at the <a href = 'https://www.univ-smb.fr'>University Savoie Mont Blanc</a> in Chambéry (France).
 
 Having a PhD in Cognitive Science, my research focuses on studying emotional attention in normal aging and in Alzheimer's Disease, using eye-tracking and neuroimaging tools.
 
