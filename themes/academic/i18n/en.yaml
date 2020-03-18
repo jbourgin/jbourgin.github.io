@@ -100,7 +100,7 @@
   translation: See all posts
 
 - id: more_talks
-  translation: See all talks
+  translation: See all symposia
 
 - id: more_publications
   translation: See all publications
@@ -186,7 +186,7 @@
   translation: Publications
 
 - id: talks
-  translation: Talks
+  translation: Symposia
 
 - id: projects
   translation: Projects

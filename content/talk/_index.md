@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Symposia
 
 # View.
 #   1 = List
