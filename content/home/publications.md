@@ -23,18 +23,6 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
-
-   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
-
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
