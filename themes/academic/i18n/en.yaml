@@ -133,6 +133,9 @@
 - id: publication_type
   translation: Type
 
+- id: category_type
+  translation: Type
+
 - id: date
   translation: Date
 
@@ -171,6 +174,17 @@
 
 - id: pub_patent
   translation: Patent
+
+# Categories
+
+- id: cat_uncat
+  translation: Uncategorized
+
+- id: cat_talk
+  translation: Talk
+
+- id: cat_post
+  translation: Poster
 
 # Project details
 

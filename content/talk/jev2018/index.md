@@ -19,6 +19,7 @@ abstract: La Maladie d’Alzheimer (MA) est une pathologie neurodégénérative 
 date: 2018-03-05T14:30:00+01:00
 date_end: 2018-03-06T15:00:00+01:00
 all_day: true
+category_types: ["1"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-16T15:47:48+01:00

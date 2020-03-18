@@ -19,8 +19,7 @@ abstract: "Socioemotional selectivity theory posits the existence of a motivatio
 date: 2018-04-04T19:34:11+01:00
 date_end: 2020-04-05T19:34:11+01:00
 all_day: true
-
-publication_types: ["2"]
+category_types: ["2"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T19:34:11+01:00

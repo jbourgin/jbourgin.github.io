@@ -21,6 +21,7 @@ In the pro-saccade and anti-saccade tasks, age-matched controls respectively mov
 date: 2016-09-29T20:31:17+01:00
 date_end: 2016-09-30T20:31:17+01:00
 all_day: true
+category_types: ["2"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T20:31:17+01:00

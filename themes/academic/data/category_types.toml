@@ -1,0 +1,6 @@
+# Publication types.
+# Each item in the list corresponds to an item in the language packs.
+types = [ "cat_uncat",
+          "cat_talk",
+          "cat_post"
+        ]

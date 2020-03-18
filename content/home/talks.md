@@ -27,11 +27,12 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = false
     author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+    category_type = true
 
 [design]
   # Toggle between the various page layout types.

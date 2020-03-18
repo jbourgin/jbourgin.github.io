@@ -19,6 +19,7 @@ abstract: "La Maladie d’Alzheimer (MA) est une maladie neurodégénérative ca
 date: 2016-06-09T20:48:40+01:00
 date_end: 2016-06-10T20:48:40+01:00
 all_day: true
+category_types: ["2"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T20:48:40+01:00

@@ -63,6 +63,27 @@
     <div class="d-md-none space-below"></div>
     {{ end }}
 
+    {{ if (.Params.category_types) and (ne (index .Params.category_types 0) "0") }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "category_type" }}</div>
+          <div class="col-12 col-md-9">
+            {{ $pub_types := partial "functions/get_category" $ }}
+            {{ range $index, $pubtype := .Params.category_types }}
+            <a href="{{ (site.GetPage "section" "talk").RelPermalink }}#{{ . | urlize }}">
+              {{ index $pub_types (int .) }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
     <div class="space-below"></div>
 
     <div class="article-style">

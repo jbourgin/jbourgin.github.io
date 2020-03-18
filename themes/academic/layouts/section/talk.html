@@ -23,11 +23,11 @@
         </div>
         <div class="col-auto">
           <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">{{ i18n "publication_type" }}</option>
-            {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
+            <option value="*">{{ i18n "category_type" }}</option>
+            {{ $cat_types := partial "functions/get_category" $ }}
+            {{ range $index, $taxonomy := site.Taxonomies.category_types }}
             <option value=".pubtype-{{ (int $index) }}">
-              {{ index $pub_types (int $index) }}
+              {{ index $cat_types (int $index) }}
             </option>
             {{ end }}
           </select>
@@ -50,8 +50,8 @@
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
 
-        {{ if .Params.publication_types }}
-          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+        {{ if .Params.category_types }}
+          {{ $.Scratch.Set "pubtype" (index .Params.category_types 0) }}
         {{ else }}
           {{ $.Scratch.Set "pubtype" 0 }}
         {{ end }}

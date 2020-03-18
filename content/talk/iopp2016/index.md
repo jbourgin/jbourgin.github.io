@@ -19,6 +19,7 @@ abstract: "Alzheimer’s disease (AD) is a neurodegenerative pathological condit
 date: 2016-08-31T20:42:44+01:00
 date_end: 2016-09-04T20:42:44+01:00
 all_day: true
+category_types: ["2"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T20:42:44+01:00

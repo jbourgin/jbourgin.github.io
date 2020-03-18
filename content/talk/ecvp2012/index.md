@@ -19,6 +19,7 @@ abstract:
 date: 2012-06-02T21:02:06+01:00
 date_end: 2012-06-06T21:02:06+01:00
 all_day: true
+category_types: ["2"]
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T21:02:06+01:00
