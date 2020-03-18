@@ -14,6 +14,6 @@ menu:
 weight: 2
 ---
 
-Le PDF ci-dessous vous explique pourquoi le calcul de la variance en statistiques inférentielles implique une division par (n - 1).
+Le PDF ci-dessous explique pourquoi le calcul de la variance en statistiques inférentielles implique une division par (n - 1).
 
 {{% staticref "files/statistics/Calcul de la variance - Pourquoi (n - 1).pdf" "newtab" %}}Calcul de la variance{{% /staticref %}}
