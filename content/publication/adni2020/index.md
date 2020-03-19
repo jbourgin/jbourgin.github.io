@@ -46,10 +46,10 @@ url_source:
 url_video:
 
 links:
-  - name: Github Project
-    url: https://github.com/jbourgin/ADNI_analysis
-    icon_pack: fab fa-github
-    icon: Github Project
+#  - name: Github Project
+#    url: https://github.com/jbourgin/ADNI_analysis
+#    icon_pack: fab fa-github
+#    icon: Github Project
   - name: OSF Project
     url: https://osf.io/5dyhc/
     icon_pack: ai ai-osf mr-1
