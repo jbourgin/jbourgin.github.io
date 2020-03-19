@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/tags/</link>
+      <atom:link href="https://jbourgin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 10:59:18 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://jbourgin.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Alzheimer&#39;s disease</title>
+      <link>https://jbourgin.github.io/tags/alzheimers-disease/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/alzheimers-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amygdala</title>
+      <link>https://jbourgin.github.io/tags/amygdala/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/amygdala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention</title>
+      <link>https://jbourgin.github.io/tags/attention/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion</title>
+      <link>https://jbourgin.github.io/tags/diffusion/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emotion</title>
+      <link>https://jbourgin.github.io/tags/emotion/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye movements</title>
+      <link>https://jbourgin.github.io/tags/eye-movements/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/eye-movements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fmri</title>
+      <link>https://jbourgin.github.io/tags/fmri/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aging</title>
+      <link>https://jbourgin.github.io/tags/aging/</link>
+      <pubDate>Mon, 16 Mar 2020 14:35:24 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention networks</title>
+      <link>https://jbourgin.github.io/tags/attention-networks/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/attention-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion MRI</title>
+      <link>https://jbourgin.github.io/tags/diffusion-mri/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/diffusion-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional MRI</title>
+      <link>https://jbourgin.github.io/tags/functional-mri/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/functional-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mild cognitive impairment</title>
+      <link>https://jbourgin.github.io/tags/mild-cognitive-impairment/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/mild-cognitive-impairment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>https://jbourgin.github.io/tags/mri/</link>
+      <pubDate>Mon, 16 Mar 2020 12:12:21 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://jbourgin.github.io/tags/language/</link>
+      <pubDate>Mon, 16 Mar 2020 10:40:30 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Shiny</title>
+      <link>https://jbourgin.github.io/tags/r-shiny/</link>
+      <pubDate>Mon, 16 Mar 2020 10:40:30 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/r-shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eyetracking</title>
+      <link>https://jbourgin.github.io/tags/eyetracking/</link>
+      <pubDate>Mon, 16 Mar 2020 10:20:54 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inhibition</title>
+      <link>https://jbourgin.github.io/tags/inhibition/</link>
+      <pubDate>Wed, 16 May 2018 11:48:27 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual search</title>
+      <link>https://jbourgin.github.io/tags/visual-search/</link>
+      <pubDate>Wed, 04 Apr 2018 19:34:11 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/visual-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scenes</title>
+      <link>https://jbourgin.github.io/tags/scenes/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/scenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial frequencies</title>
+      <link>https://jbourgin.github.io/tags/spatial-frequencies/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/spatial-frequencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual perception</title>
+      <link>https://jbourgin.github.io/tags/visual-perception/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/tags/visual-perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

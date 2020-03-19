@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fmri | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/tags/fmri/</link>
+      <atom:link href="https://jbourgin.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>fmri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 10:59:18 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>fmri</title>
+      <link>https://jbourgin.github.io/tags/fmri/</link>
+    </image>
+    
+    <item>
+      <title>Emotional attention in Alzheimer&#39;s disease</title>
+      <link>https://jbourgin.github.io/project/emotional/</link>
+      <pubDate>Wed, 18 Mar 2020 10:59:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/project/emotional/</guid>
+      <description>&lt;p&gt;Alzheimer&#39;s Disease (AD) is a complex neurodegenerative pathology involving large brain alterations and the emergence of cognitive and behavioral symptoms that impair daily life. Even now, AD is difficult to diagnose precisely, notably because of the low-specificity of its main characteristics (i.e., memory symptoms and hippocampal atrophy). The systematic assessment of brain alterations that occur during the first stages of AD showed the existence of amygdala atrophy, which could lead to disruptions in emotional processing.&lt;/p&gt;
+&lt;p&gt;In this project, we conduct paradigms involving emotional attention, in other words attentional processes directed toward emotional or neutral stimuli, which may be disrupted in patients with amygdala lesions.&lt;/p&gt;
+&lt;p&gt;We already conducted two eye-tracking paradigms (i.e., eye movements recording) involving visual search and pro-saccade/anti-saccade tasks to get a fine analysis of attentional processes. The results of these two studies suggest that patients with AD present alterations of early emotional attention, which is involved in facilitating orienting toward emotional information.&lt;/p&gt;
+&lt;p&gt;Using a neuroimaging analysis of structural and functional connectivity, we highlighted alterations in neural networks (including the amygdala) involved in attentional and emotional processes.&lt;/p&gt;
+&lt;p&gt;Finally, we are currently conducting a neuroimaging study specifically exploring correlations between emotional attention processes and alterations in the corresponding neural network. Information regarding this paradigm can be found 
+&lt;a href=&#34;https://github.com/jbourgin/ATEMMA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal neuroimaging analysis</title>
+      <link>https://jbourgin.github.io/project/multimodal/</link>
+      <pubDate>Mon, 16 Mar 2020 10:53:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/project/multimodal/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jbourgin.github.io/project/multimodal/analysis.png&#34; alt=&#34;analysis&#34;&gt;
+During my 
+&lt;a href=&#34;https://jbourgin.github.io/project/emotional&#34;&gt;thesis work&lt;/a&gt;, I conducted analyses involving neuroimaging data (diffusion MRI, fMRI and MRI).&lt;/p&gt;
+&lt;p&gt;To perform these analyses, I used scripts for data extraction from a large database, 
+&lt;a href=&#34;http://adni.loni.usc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADNI&lt;/a&gt;, and used several tools such as 
+&lt;a href=&#34;https://www.fil.ion.ucl.ac.uk/spm/software/spm12/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPM&lt;/a&gt;, 
+&lt;a href=&#34;https://web.conn-toolbox.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conn&lt;/a&gt;, 
+&lt;a href=&#34;https://surfer.nmr.mgh.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freesurfer&lt;/a&gt;, 
+&lt;a href=&#34;https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSL&lt;/a&gt;, 
+&lt;a href=&#34;https://mrtrix.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRtrix&lt;/a&gt;, 
+&lt;a href=&#34;https://www.volbrain.upv.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;volBrain&lt;/a&gt;, 
+&lt;a href=&#34;https://tractoflow-documentation.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TractoFlow&lt;/a&gt;, and 
+&lt;a href=&#34;https://mriqc.readthedocs.io/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRIQC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Based on what I learned, I am working on tutorials and user-friendly scripts that will soon be available on Github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The neural bases of the semantic interference of spatial frequency-based information in scenes</title>
+      <link>https://jbourgin.github.io/publication/freq2015/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/freq2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

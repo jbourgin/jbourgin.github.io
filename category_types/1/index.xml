@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/category_types/1/</link>
+      <atom:link href="https://jbourgin.github.io/category_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Mar 2018 14:30:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://jbourgin.github.io/category_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Influence d’une information émotionnelle négative sur les processus d’engagement et de désengagement dans la Maladie d’Alzheimer : un paradigme de recherche visuelle en eye-tracking</title>
+      <link>https://jbourgin.github.io/talk/jev2018/</link>
+      <pubDate>Mon, 05 Mar 2018 14:30:00 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/jev2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention émotionnelle &amp; Maladie d&#39;Alzheimer</title>
+      <link>https://jbourgin.github.io/talk/clermont2017/</link>
+      <pubDate>Thu, 06 Jul 2017 10:00:02 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/clermont2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

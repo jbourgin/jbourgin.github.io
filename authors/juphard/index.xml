@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juphard | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/authors/juphard/</link>
+      <atom:link href="https://jbourgin.github.io/authors/juphard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juphard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 May 2018 11:48:27 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Juphard</title>
+      <link>https://jbourgin.github.io/authors/juphard/</link>
+    </image>
+    
+    <item>
+      <title>Early Emotional Attention is Impacted in Alzheimer’s Disease : an Eye-Tracking Study</title>
+      <link>https://jbourgin.github.io/publication/early2018/</link>
+      <pubDate>Wed, 16 May 2018 11:48:27 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/early2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentional capture by emotional information in Alzheimer’s disease : automatic and motivational processes</title>
+      <link>https://jbourgin.github.io/talk/lille2016/</link>
+      <pubDate>Thu, 29 Sep 2016 20:31:17 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/lille2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentional capture by emotional information in Alzheimer’s disease</title>
+      <link>https://jbourgin.github.io/talk/iopp2016/</link>
+      <pubDate>Wed, 31 Aug 2016 20:42:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/iopp2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processus attentionnels dans la pathologie d’Alzheimer : où est passée l’émotion ?</title>
+      <link>https://jbourgin.github.io/talk/grepaco2016/</link>
+      <pubDate>Thu, 09 Jun 2016 20:48:40 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/grepaco2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
