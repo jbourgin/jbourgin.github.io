@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kauffmann | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/authors/kauffmann/</link>
+      <atom:link href="https://jbourgin.github.io/authors/kauffmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kauffmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2015 15:19:44 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kauffmann</title>
+      <link>https://jbourgin.github.io/authors/kauffmann/</link>
+    </image>
+    
+    <item>
+      <title>The neural bases of the semantic interference of spatial frequency-based information in scenes</title>
+      <link>https://jbourgin.github.io/publication/freq2015/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/freq2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparisons of static and dynamic paradigms to investigate the Coarse-to-Fine categorization of scenes</title>
+      <link>https://jbourgin.github.io/talk/ecvp2012/</link>
+      <pubDate>Sat, 02 Jun 2012 21:02:06 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/ecvp2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

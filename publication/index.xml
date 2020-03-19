@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/publication/</link>
+      <atom:link href="https://jbourgin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://jbourgin.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/visualsearch2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:35:24 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/visualsearch2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/adni2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/adni2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Involvement of Amygdala Alterations in Emotional Processing in Alzheimer’s Disease : a Review</title>
+      <link>https://jbourgin.github.io/publication/review2020/</link>
+      <pubDate>Mon, 16 Mar 2020 12:12:21 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/review2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Emotional Attention is Impacted in Alzheimer’s Disease : an Eye-Tracking Study</title>
+      <link>https://jbourgin.github.io/publication/early2018/</link>
+      <pubDate>Wed, 16 May 2018 11:48:27 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/early2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural bases of the semantic interference of spatial frequency-based information in scenes</title>
+      <link>https://jbourgin.github.io/publication/freq2015/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/freq2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
