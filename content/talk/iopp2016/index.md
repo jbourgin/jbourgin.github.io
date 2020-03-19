@@ -24,7 +24,7 @@ category_types: ["2"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T20:42:44+01:00
 
-authors: [Bourgin, J., Chauvin, A., Guyader, N., Juphard, A., Sauvée, M., Moreaud, O., \& Hot, P.]
+authors: ["Bourgin, J.", "Chauvin, A.", "Guyader, N.", "Juphard, A.", "Sauvée, M.", "Moreaud, O.", "Hot, P."]
 tags: [emotion, Alzheimer's disease, eye movements, inhibition]
 
 # Is this a featured talk? (true/false)

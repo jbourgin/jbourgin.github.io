@@ -24,7 +24,7 @@ category_types: ["1"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-16T15:57:02+01:00
 
-authors: []
+authors: ["Bourgin, J.", "Hot, P.", "Silvert, L."]
 tags: [Alzheimer's disease]
 
 # Is this a featured talk? (true/false)

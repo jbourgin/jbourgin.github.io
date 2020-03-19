@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: " Involvement of Amygdala Alterations in Emotional Processing in Alzheimer’s Disease : a Review"
-authors: [Bourgin,J., Silvert, L., and Hot, P.]
+authors: ["Bourgin, J.", "Silvert, L.", "Hot, P."]
 date:
 doi: ""
 

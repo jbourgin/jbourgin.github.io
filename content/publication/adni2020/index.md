@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease"
-authors: [Bourgin, J., Roger, E., Pichat, C., Renard, F., Jaillard, A., Cousin, E., Silvert, L., Baciu, M., \& Hot, P.]
+authors: ["Bourgin, J.", "Roger, E.", "Pichat, C.", "Renard, F.", "Jaillard, A.", "Cousin, E.", "Silvert, L.", "Baciu, M.", "Hot, P."]
 date:
 doi: ""
 

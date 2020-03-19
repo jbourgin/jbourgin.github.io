@@ -24,7 +24,7 @@ category_types: ["2"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T21:02:06+01:00
 
-authors: [Bourgin, J., Maire, C., Kauffmann, L., Chauvin, A., Guyader, N., \& Peyrin, C.]
+authors: ["Bourgin, J.", "Maire, C.", "Kauffmann, L.", "Chauvin, A.", "Guyader, N.", "Peyrin, C."]
 tags: [visual perception]
 
 # Is this a featured talk? (true/false)

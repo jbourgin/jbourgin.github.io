@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease"
-authors: [Bourgin, J., Silvert, L., Borg, C., Morand, A., Sauvée, M., Moreaud, O., \& Hot, P.]
+authors: ["Bourgin, J.", "Silvert, L.", "Borg, C.", "Morand, A.", "Sauvée, M.", "Moreaud, O.", "Hot, P."]
 date:
 doi: ""
 
