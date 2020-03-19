@@ -4,7 +4,7 @@
 title: "Multimodal neuroimaging analysis"
 summary: "This project aims to share methods to analyze neuroimaging data."
 authors: []
-tags: [fmri, diffusion MRI]
+tags: [fmri, diffusion MRI, volumetry]
 categories: []
 date: 2020-03-16T10:53:18+01:00
 

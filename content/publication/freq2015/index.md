@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The neural bases of the semantic interference of spatial frequency-based information in scenes"
-authors: [Kauffmann, L., Bourgin, J., Guyader, N., \& Peyrin, C.]
+authors: ["Kauffmann, L.", "Bourgin, J.", "Guyader, N.", "Peyrin, C."]
 date: 2015-12-16T15:19:44+01:00
 doi: "10.1162/jocn_a_00861"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Early Emotional Attention is Impacted in Alzheimer’s Disease : an Eye-Tracking Study"
-authors: [Bourgin, J., Guyader, N., Chauvin, A., Juphard, A., Sauvée, M., Moreaud, O., Silvert, L., \& Hot, P.]
+authors: ["Bourgin, J.", "Guyader, N.", "Chauvin, A.", "Juphard, A.", "Sauvée, M.", "Moreaud, O.", "Silvert, L.", "Hot, P."]
 date: 2018-05-16T11:48:27+01:00
 doi: "10.3233/JAD-180170"
 

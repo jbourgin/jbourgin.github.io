@@ -24,7 +24,7 @@ category_types: ["2"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T19:34:11+01:00
 
-authors: [Bourgin, J., Morand, A., Cronenberger, L., Hajjam, N., Sauvée, M., Moreaud, O., Silvert, L., \& Hot, P.]
+authors: ["Bourgin, J.", "Morand, A.", "Cronenberger, L.", "Hajjam, N.", "Sauvée, M.", "Moreaud, O.", "Silvert, L.", "Hot, P."]
 tags: [emotion, aging, attention, eye movements, visual search]
 
 # Is this a featured talk? (true/false)

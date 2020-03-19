@@ -24,7 +24,7 @@ category_types: ["2"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-17T21:06:08+01:00
 
-authors: [Bourgin, J., Silvert, L., \& Hot, P.]
+authors: ["Bourgin, J.", "Silvert, L.", "Hot, P."]
 tags: [Alzheimer's disease, eye movements, attention]
 
 # Is this a featured talk? (true/false)

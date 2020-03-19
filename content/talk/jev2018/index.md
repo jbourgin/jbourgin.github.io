@@ -24,7 +24,7 @@ category_types: ["1"]
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-16T15:47:48+01:00
 
-authors: []
+authors: ["Bourgin, J.", "Morand, A.", "Sauvée, M.", "Moreaud, O.", "Silvert, L.", "Hot, P."]
 tags: [Alzheimer's disease, emotion, attention, eye movements, aging]
 
 # Is this a featured talk? (true/false)
