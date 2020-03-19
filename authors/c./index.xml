@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/authors/c./</link>
+      <atom:link href="https://jbourgin.github.io/authors/c./index.xml" rel="self" type="application/rss+xml" />
+    <description>C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 14:35:24 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>C.</title>
+      <link>https://jbourgin.github.io/authors/c./</link>
+    </image>
+    
+    <item>
+      <title>Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/visualsearch2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:35:24 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/visualsearch2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/adni2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/adni2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural bases of the semantic interference of spatial frequency-based information in scenes</title>
+      <link>https://jbourgin.github.io/publication/freq2015/</link>
+      <pubDate>Wed, 16 Dec 2015 15:19:44 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/freq2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparisons of static and dynamic paradigms to investigate the Coarse-to-Fine categorization of scenes</title>
+      <link>https://jbourgin.github.io/talk/ecvp2012/</link>
+      <pubDate>Sat, 02 Jun 2012 21:02:06 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/ecvp2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
