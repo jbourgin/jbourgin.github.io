@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Booguiiiii"
+title: "Boogui"
 summary: "Boogui is a software dedicated to viewing and processing gaze data recorded with EyeLink or SMI eye trackers."
 authors: []
 tags: [eyetracking]
