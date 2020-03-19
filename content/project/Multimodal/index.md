@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/jbourgin/ADNI_analysis"
+#url_code: "https://github.com/jbourgin/ADNI_analysis"
 url_pdf: "https://hal.archives-ouvertes.fr/tel-02485293/document"
 url_slides: ""
 url_video: ""
