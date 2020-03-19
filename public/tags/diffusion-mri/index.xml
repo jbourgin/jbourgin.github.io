@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diffusion MRI | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/tags/diffusion-mri/</link>
+      <atom:link href="https://jbourgin.github.io/tags/diffusion-mri/index.xml" rel="self" type="application/rss+xml" />
+    <description>diffusion MRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 14:17:57 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>diffusion MRI</title>
+      <link>https://jbourgin.github.io/tags/diffusion-mri/</link>
+    </image>
+    
+    <item>
+      <title>Structural and Functional Connectivity of Salience and Attentional Networks in Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/adni2020/</link>
+      <pubDate>Mon, 16 Mar 2020 14:17:57 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/adni2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal neuroimaging analysis</title>
+      <link>https://jbourgin.github.io/project/multimodal/</link>
+      <pubDate>Mon, 16 Mar 2020 10:53:18 +0100</pubDate>
+      <guid>https://jbourgin.github.io/project/multimodal/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jbourgin.github.io/project/multimodal/analysis.png&#34; alt=&#34;analysis&#34;&gt;
+During my 
+&lt;a href=&#34;https://jbourgin.github.io/project/emotional&#34;&gt;thesis work&lt;/a&gt;, I conducted analyses involving neuroimaging data (diffusion MRI, fMRI and MRI).&lt;/p&gt;
+&lt;p&gt;To perform these analyses, I used scripts for data extraction from a large database, 
+&lt;a href=&#34;http://adni.loni.usc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADNI&lt;/a&gt;, and used several tools such as 
+&lt;a href=&#34;https://www.fil.ion.ucl.ac.uk/spm/software/spm12/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPM&lt;/a&gt;, 
+&lt;a href=&#34;https://web.conn-toolbox.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conn&lt;/a&gt;, 
+&lt;a href=&#34;https://surfer.nmr.mgh.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freesurfer&lt;/a&gt;, 
+&lt;a href=&#34;https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSL&lt;/a&gt;, 
+&lt;a href=&#34;https://mrtrix.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRtrix&lt;/a&gt;, 
+&lt;a href=&#34;https://www.volbrain.upv.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;volBrain&lt;/a&gt;, 
+&lt;a href=&#34;https://tractoflow-documentation.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TractoFlow&lt;/a&gt;, and 
+&lt;a href=&#34;https://mriqc.readthedocs.io/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRIQC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Based on what I learned, I am working on tutorials and user-friendly scripts that will soon be available on Github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

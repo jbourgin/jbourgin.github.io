@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliva | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/authors/oliva/</link>
+      <atom:link href="https://jbourgin.github.io/authors/oliva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2016 20:31:17 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Oliva</title>
+      <link>https://jbourgin.github.io/authors/oliva/</link>
+    </image>
+    
+    <item>
+      <title>Attentional capture by emotional information in Alzheimer’s disease : automatic and motivational processes</title>
+      <link>https://jbourgin.github.io/talk/lille2016/</link>
+      <pubDate>Thu, 29 Sep 2016 20:31:17 +0100</pubDate>
+      <guid>https://jbourgin.github.io/talk/lille2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
