@@ -33,3 +33,9 @@ git commit -m "$msg"
 # Push source and build repos.
 printf "\033[0;32mPushing to GitHub.\033[0m\n"
 git push origin master
+
+printf "\033[0;32mPushing to Master.\033[0m\n"
+cd ..
+git add .
+git commit -a -m "adding changes"
+git push origin master
