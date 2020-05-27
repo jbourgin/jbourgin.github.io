@@ -47,7 +47,7 @@ url_video:
 
 links:
     - name: Journal
-      url: 10.1162/jocn_a_00861
+      url: https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00861?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
       icon_pack: fas fa-lock mr-1
       icon: Journal
 
