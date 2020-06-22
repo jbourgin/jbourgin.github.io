@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Description | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/courses/statistics/</link>
+      <atom:link href="https://jbourgin.github.io/courses/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Description</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Description</title>
+      <link>https://jbourgin.github.io/courses/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Exercices supplémentaires</title>
+      <link>https://jbourgin.github.io/courses/statistics/statistics1/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://jbourgin.github.io/courses/statistics/statistics1/</guid>
+      <description>&lt;p&gt;Vous trouverez ci-dessous des exercices pour approfondir le cours et les notions abordées en TD. Cliquez sur le lien qui vous intéresse pour télécharger le pdf correspondant.&lt;/p&gt;
+&lt;h3 id=&#34;enoncés&#34;&gt;Enoncés&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Exercices%20suppl%c3%a9mentaires%20TD1.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD1&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Exercices%20suppl%c3%a9mentaires%20TD2.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD2&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Exercices%20suppl%c3%a9mentaires%20TD3.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD3&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Exercices%20suppl%c3%a9mentaires%20TD4.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD4&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Exercices%20suppl%c3%a9mentaires%20TD5.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD5&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/TD6%20Exercices%20suppl%c3%a9mentaires.pdf&#34; target=&#34;_blank&#34;&gt;Enoncé TD6&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;corrigés&#34;&gt;Corrigés&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20Exercices%20Suppl%c3%a9mentaires%20TD1.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD1&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20Exercices%20Suppl%c3%a9mentaires%20TD2.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD2&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20Exercices%20suppl%c3%a9mentaires%20TD3.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD3&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20exercices%20suppl%c3%a9mentaires%20TD4.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD4&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20exercices%20suppl%c3%a9mentaires%20TD5.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD5&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Correction%20Exercices%20suppl%c3%a9mentaires%20TD6.pdf&#34; target=&#34;_blank&#34;&gt;Corrigé TD6&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calcul de la variance</title>
+      <link>https://jbourgin.github.io/courses/statistics/statistics2/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://jbourgin.github.io/courses/statistics/statistics2/</guid>
+      <description>&lt;p&gt;Le PDF ci-dessous explique pourquoi le calcul de la variance en statistiques inférentielles implique une division par (n - 1).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jbourgin.github.io/files/statistics/Calcul%20de%20la%20variance%20-%20Pourquoi%20%28n%20-%201%29.pdf&#34; target=&#34;_blank&#34;&gt;Calcul de la variance&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
