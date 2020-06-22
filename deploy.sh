@@ -33,3 +33,8 @@ git commit -m "$msg"
 # Push source and build repos.
 printf "\033[0;32mPushing to GitHub.\033[0m\n"
 git push origin master
+
+cd ..
+git add *
+git commit -a -m "$1"
+git push

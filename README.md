@@ -1,3 +1,7 @@
+**NEVER TRY TO UPDATE WEBSITE FROM LAPTOP (DO IT ON UBUNTU OS FROM DESKTOP PC)**
+
+Otherwise, things like publication and talk layouts don't seem to work.
+
 ## To clone
 ```
 git clone git@github.com:jbourgin/jbourgin.github.io.git
@@ -23,7 +27,17 @@ Delete all elements related to the submodule
 Then
 
 ```
+./deploy.sh
+```
+<!-- ```
 git submodule add -b master https://github.com/<USERNAME>/<USERNAME>.github.io.git public
+``` -->
+
+To reset to a previous commit :
+
+```
+git reset --hard commit_code_where_to_reset
+git push -f
 ```
 
 ## To update
@@ -46,11 +60,11 @@ Do changes, then :
 ./deploy.sh
 ```
 
-Commit on master
+<!-- Commit on master
 
 ```
 git commit -a -m "blabla"
 ```
 ```
 git push
-```
+``` -->

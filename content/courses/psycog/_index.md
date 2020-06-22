@@ -5,7 +5,7 @@ summary: Ce cours est destiné aux étudiants de Psychologie de 1ère année de 
 weight: 1
 
 # Page metadata.
-title: 
+title:
 date: "2020-03-18T00:00:00Z"
 lastmod: "2020-03-18T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -23,7 +23,7 @@ menu:
 
 ## Résumé
 
-Ce cours a pour objectif de présenter les méthodes et apports de la  psychologie sociale et de la psychologie cognitive. ANous présentons les avancées significatives issues de la psychologie cognitive dans notre compréhension des grands mécanismes de la pensée (la perception, l'attention, la mémoire et le langage). Les TD illustrent ces enseignements en reproduisant durant les séances certaines des expériences princeps dans ces domaines.
+Ce cours a pour objectif de présenter les méthodes et apports de la  psychologie sociale et de la psychologie cognitive. Nous présentons les avancées significatives issues de la psychologie cognitive dans notre compréhension des grands mécanismes de la pensée (la perception, l'attention, la mémoire et le langage). Les TD illustrent ces enseignements en reproduisant durant les séances certaines des expériences princeps dans ces domaines.
 
 ## Documents
 
