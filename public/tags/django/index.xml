@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>django | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/tags/django/</link>
+      <atom:link href="https://jbourgin.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <description>django</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 10:20:54 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>django</title>
+      <link>https://jbourgin.github.io/tags/django/</link>
+    </image>
+    
+    <item>
+      <title>Body in Brain</title>
+      <link>https://jbourgin.github.io/project/bodyinbrain/</link>
+      <pubDate>Sun, 27 Sep 2020 10:20:54 +0100</pubDate>
+      <guid>https://jbourgin.github.io/project/bodyinbrain/</guid>
+      <description>&lt;p&gt;Body in Brain is a project led at University Savoie Mont Blanc by 
+&lt;a href=&#34;https://www.lippc2s.fr/person/1893-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morgane Metral&lt;/a&gt; and 
+&lt;a href=&#34;https://fr.linkedin.com/public-profile/in/jeandavidboucher&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jean-David Boucher&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project aims at developing a standardized tool for body schema assessment. This tool will notably include a web platform with several modules based on tactile sensitivity, virtual reality, and artificial intelligence. See 
+&lt;a href=&#34;https://www.fondation-usmb.fr/projet/body-in-brain/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Body in Brain&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;I am currently building the web part of the project. This website will be available at 
+&lt;a href=&#34;https://psycho-usmb.fr/bodyinbrain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BodyinBrain&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

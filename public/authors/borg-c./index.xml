@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borg, C. | Jessica Bourgin</title>
+    <link>https://jbourgin.github.io/authors/borg-c./</link>
+      <atom:link href="https://jbourgin.github.io/authors/borg-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Borg, C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Borg, C.</title>
+      <link>https://jbourgin.github.io/authors/borg-c./</link>
+    </image>
+    
+    <item>
+      <title>Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/visualsearch2020/</link>
+      <pubDate>Sun, 01 Nov 2020 11:48:27 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/visualsearch2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
