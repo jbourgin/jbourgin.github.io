@@ -5,12 +5,20 @@
     <link>https://jbourgin.github.io/tags/attention/</link>
       <atom:link href="https://jbourgin.github.io/tags/attention/index.xml" rel="self" type="application/rss+xml" />
     <description>attention</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 10:59:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 11:48:27 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>attention</title>
       <link>https://jbourgin.github.io/tags/attention/</link>
     </image>
+    
+    <item>
+      <title>Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease</title>
+      <link>https://jbourgin.github.io/publication/visualsearch2020/</link>
+      <pubDate>Sun, 01 Nov 2020 11:48:27 +0100</pubDate>
+      <guid>https://jbourgin.github.io/publication/visualsearch2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emotional attention in Alzheimer&#39;s disease</title>
@@ -24,14 +32,6 @@
 &lt;p&gt;Finally, we are currently conducting a neuroimaging study specifically exploring correlations between emotional attention processes and alterations in the corresponding neural network. Information regarding this paradigm can be found 
 &lt;a href=&#34;https://github.com/jbourgin/ATEMMA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Impact of Emotionally Negative Information on Attentional Processes in Normal Aging and Alzheimer’s Disease</title>
-      <link>https://jbourgin.github.io/publication/visualsearch2020/</link>
-      <pubDate>Mon, 16 Mar 2020 14:35:24 +0100</pubDate>
-      <guid>https://jbourgin.github.io/publication/visualsearch2020/</guid>
-      <description></description>
     </item>
     
     <item>

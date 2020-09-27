@@ -43,8 +43,68 @@
   </url>
   
   <url>
+    <loc>https://jbourgin.github.io/publication_types/2/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/aging/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jbourgin.github.io/tags/alzheimers-disease/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/attention/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/emotion/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/eye-movements/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/publication/visualsearch2020/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/publication_types/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/project/bodyinbrain/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/tags/django/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/project/</loc>
+    <lastmod>2020-09-27T22:31:01+02:00</lastmod>
   </url>
   
   <url>
@@ -53,18 +113,8 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/tags/attention/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/tags/diffusion/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/tags/emotion/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
+    <lastmod>2020-03-18T23:27:41+01:00</lastmod>
   </url>
   
   <url>
@@ -73,22 +123,7 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/tags/eye-movements/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/tags/fmri/</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/project/</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/tags/</loc>
     <lastmod>2020-05-27T15:28:11+02:00</lastmod>
   </url>
   
@@ -98,72 +133,7 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/tags/aging/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/borg-c./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/bourgin-j./</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/hot-p./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/publication/visualsearch2020/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/morand-a./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/moreaud-o./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/publication_types/</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/sauvee-m./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/silvert-l./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/tags/attention-networks/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/baciu-m./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/cousin-e./</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
   </url>
   
@@ -178,27 +148,7 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/authors/jaillard-a./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/tags/mild-cognitive-impairment/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/pichat-c./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/renard-f./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/roger-e./</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
   </url>
   
@@ -268,42 +218,12 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/publication_types/2/</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/chauvin-a./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/publication/early2018/</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/authors/guyader-n./</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/tags/inhibition/</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/juphard-a./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/cronenberger-l./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/hajjam-n./</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
   </url>
   
@@ -338,11 +258,6 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/authors/oliva-s./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbourgin.github.io/talk/iopp2016/</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
   </url>
@@ -350,16 +265,6 @@
   <url>
     <loc>https://jbourgin.github.io/talk/grepaco2016/</loc>
     <lastmod>2020-03-19T15:26:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/kauffmann-l./</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbourgin.github.io/authors/peyrin-c./</loc>
-    <lastmod>2020-05-27T15:28:11+02:00</lastmod>
   </url>
   
   <url>
@@ -388,13 +293,25 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/authors/maire-c./</loc>
-    <lastmod>2020-03-19T15:26:35+01:00</lastmod>
+    <loc>https://jbourgin.github.io/authors/admin/</loc>
+    <lastmod>2020-03-17T10:41:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/authors/admin/</loc>
+    <loc>https://jbourgin.github.io/authors/</loc>
     <lastmod>2020-03-17T10:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/baciu-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/borg-c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/bourgin-j./</loc>
   </url>
   
   <url>
@@ -402,8 +319,63 @@
   </url>
   
   <url>
-    <loc>https://jbourgin.github.io/</loc>
-    <lastmod>2020-03-16T16:10:03+01:00</lastmod>
+    <loc>https://jbourgin.github.io/authors/chauvin-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/cousin-e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/cronenberger-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/guyader-n./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/hajjam-n./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/hot-p./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/jaillard-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/juphard-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/kauffmann-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/maire-c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/morand-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/moreaud-o./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/oliva-s./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/peyrin-c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/pichat-c./</loc>
   </url>
   
   <url>
@@ -414,6 +386,22 @@
   <url>
     <loc>https://jbourgin.github.io/publication/</loc>
     <lastmod>2020-03-16T16:10:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/renard-f./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/roger-e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/sauvee-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbourgin.github.io/authors/silvert-l./</loc>
   </url>
   
   <url>
