@@ -63,7 +63,7 @@
     <div class="d-md-none space-below"></div>
     {{ end }}
 
-    {{ if (.Params.category_types) and (ne (index .Params.category_types 0) "0") }}
+    {{ if (.Params.category_types)  }}
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
